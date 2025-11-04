@@ -1,0 +1,2 @@
+# TypeScript
+TypeScript Dersler'i
