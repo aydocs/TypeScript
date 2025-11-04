@@ -1,0 +1,13 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="500" fill="#0B0B0F"/>
+  <rect x="80" y="80" width="480" height="340" rx="16" fill="#111318" stroke="#ffffff22"/>
+  <text x="100" y="120" font-family="Poppins, Arial" font-size="20" fill="#cbd5e1">JavaScript</text>
+  <rect x="640" y="80" width="480" height="340" rx="16" fill="#111318" stroke="#ffffff22"/>
+  <text x="660" y="120" font-family="Poppins, Arial" font-size="20" fill="#cbd5e1">TypeScript</text>
+  <text x="100" y="170" font-family="JetBrains Mono, monospace" font-size="18" fill="#a3a3a3">let age = 25;</text>
+  <text x="100" y="200" font-family="JetBrains Mono, monospace" font-size="18" fill="#a3a3a3">age = "yirmi beş"; // hata vermez</text>
+  <text x="660" y="170" font-family="JetBrains Mono, monospace" font-size="18" fill="#a3a3a3">let age: number = 25;</text>
+  <text x="660" y="200" font-family="JetBrains Mono, monospace" font-size="18" fill="#ef4444">age = "yirmi beş"; // hata</text>
+</svg>
+
+

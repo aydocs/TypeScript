@@ -1,0 +1,13 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0B0B0F"/>
+  <rect x="80" y="90" width="260" height="120" rx="16" fill="#3178C6"/>
+  <text x="150" y="160" font-family="Poppins, Arial" font-size="22" fill="white">TypeScript</text>
+  <rect x="470" y="90" width="260" height="120" rx="16" fill="#111318" stroke="#ffffff22"/>
+  <text x="530" y="160" font-family="Poppins, Arial" font-size="22" fill="#cbd5e1">JavaScript</text>
+  <rect x="860" y="90" width="260" height="120" rx="16" fill="#111318" stroke="#ffffff22"/>
+  <text x="915" y="160" font-family="Poppins, Arial" font-size="22" fill="#cbd5e1">Tarayıcı</text>
+  <path d="M340 150 H470" stroke="#a855f7" stroke-width="3"/>
+  <path d="M730 150 H860" stroke="#a855f7" stroke-width="3"/>
+</svg>
+
+
