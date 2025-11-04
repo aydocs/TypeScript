@@ -6,7 +6,7 @@
 >
 > Eğer siz de JavaScript yazarken beklenmedik hatalarla karşılaşıyorsanız, TypeScript tam size göre. Hadi başlayalım!
 
-![TypeScript Intro – JavaScript + Type Safety = TypeScript](/images/ts/ts-hero.svg)
+![TypeScript Intro – JavaScript + Type Safety = TypeScript](/ts-hero.svg)
 
 ---
 
@@ -30,7 +30,7 @@ let age: number = 25;
 age = "yirmi beş"; // hata! string number olamaz
 ```
 
-![Yan yana JS (sorunsuz) ve TS (tip hatası) karşılaştırması](/images/ts/ts-compare.svg)
+![Yan yana JS (sorunsuz) ve TS (tip hatası) karşılaştırması](/ts-compare.svg)
 
 ---
 
@@ -44,7 +44,7 @@ Büyük projelerde JavaScript kodları hızla karmaşık hale gelir. Bir değiş
 
 Ayrıca TypeScript ile yazdığınız kod, **derleme** aşamasında JavaScript’e dönüştürülür. Yani TypeScript yazarsınız ama tarayıcıda yine JavaScript çalışır.
 
-![TS kodu → JS’e dönüştürülür → Tarayıcıda çalışır diyagramı](/images/ts/ts-pipeline.svg)
+![TS kodu → JS’e dönüştürülür → Tarayıcıda çalışır diyagramı](/ts-pipeline.svg)
 
 ---
 
@@ -100,7 +100,7 @@ node hello.js
 
 Ekranda “Merhaba TypeScript!” çıktıysa, kurulum tamam! 🎉
 
-![VS Code + Terminal: tsc derleme ve çıktı](/images/ts/ts-pipeline.svg)
+![VS Code + Terminal: tsc derleme ve çıktı](/ts-pipeline.svg)
 
 ---
 
@@ -132,7 +132,7 @@ interface Kullanici {
 let user: Kullanici = { isim: "Ayberk", yas: 25 };
 ```
 
-![Tip ipuçları (string, number) baloncukları konsepti](/images/ts/ts-hints.svg)
+![Tip ipuçları (string, number) baloncukları konsepti](/ts-hints.svg)
 
 ---
 
